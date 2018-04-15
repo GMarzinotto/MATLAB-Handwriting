@@ -1,0 +1,11 @@
+Lastname: PERSON0
+Firstname: PERSON0
+Age: 27
+Gender: Female
+Hand: Left 
+Level of Studies: Higher education
+The Person Writes: 3-5 times per week
+Mother Toungue: Amharic
+French Level: Advanced
+Alphabets: Latin Arab 
+Pathology: None

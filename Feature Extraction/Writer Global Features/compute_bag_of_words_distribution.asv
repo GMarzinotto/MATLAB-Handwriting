@@ -1,0 +1,14 @@
+function [ bag_of_words_distribution ] = compute_bag_of_words_distribution( all_word_indexes_from_writer , max_index )
+
+
+    n_words_writer = length(all_word_indexes_from_writer(:,1));
+    
+    %distribuion across the previous layer
+    bag_of_words_distribution = zeros( 1 , max_index );
+    for k=1:max_index
+        bag_of_words_distribution(k) = length( all_word_indexes_from_writer == k)/n_words_writer;
+    end
+
+    BOW.Cl
+    
+end

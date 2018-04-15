@@ -1,0 +1,11 @@
+Lastname: PERSON2
+Firstname: PERSON2
+Age: 35
+Gender: Male
+Hand: Right 
+Level of Studies: Higher education
+The Person Writes: Everyday - Many times per day
+Mother Toungue: Amharic
+French Level: Advanced
+Alphabets: Latin Arab 
+Pathology: None
