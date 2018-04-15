@@ -19,7 +19,7 @@ This set can be used to test the toolbox modules, and further Demo scripts show 
 
 
 
-![Text Sample](https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting-Toolbox/master/Demo/img/full_text.png)
+![Text Sample](https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting/master/Demo/img/full_text.png)
 
 ## Demo Scripts
 The code is provided along with some demo scripts that perform some simple supervised and unsupervised machine learning techniques on handwriting. <br />
@@ -42,17 +42,17 @@ For this reason we provide a set of Visualization Demo scripts that better expla
 
 ### Plot Pen Trajectories On Table and/or On Air
 
-![Text Sample](https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting-Toolbox/master/Demo/img/Demo_Plot_On_Tablet_On_Air.png)
+![Text Sample](https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting/master/Demo/img/Demo_Plot_On_Tablet_On_Air.png)
 
 ### Plot GIF Image
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting-Toolbox/master/Demo/img/my_gif_on_tablet.gif'/>
+  <img src='https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting/master/Demo/img/my_gif_on_tablet.gif'/>
 </p>
 
 
 ### Plot On Color Scale to represent Kinematics
 
-![Text Sample](https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting-Toolbox/master/Demo/img/Demo_Plot_In_Color_Scale.png)
+![Text Sample](https://raw.githubusercontent.com/GMarzinotto/MATLAB-Handwriting/master/Demo/img/Demo_Plot_In_Color_Scale.png)
 
 
