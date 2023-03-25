@@ -10,7 +10,7 @@ A Toolbox for Online Handwriting analysis in MATLAB.
 * **Segment** long texts into lines or words.
 * **Detect** punctuation marks, diacritics and/or delayed segments. Use the pre-trained SVM classifiers of retrain your own!
 * **Extract** a large amount of possible features from handwriting, These features can be word specific, writer specific of both. 
-* **Analyse** handwriting using the extracted features with some simple machine machine learning techniques.
+* **Analyse** handwriting using the extracted features with some simple machine learning techniques.
 
 ## Toy Database
 The repository contains some online handwriting extracts recorded using a Wacom tablet. See Demo Folder. <br />
